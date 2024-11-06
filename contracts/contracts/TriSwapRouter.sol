@@ -45,7 +45,7 @@ interface IUniswapV2Pair {
 
 }
 
-contract MultiHopSwaps is Ownable {
+contract TriSwapRouter is Ownable {
 
     uint256 public deadline;
 
